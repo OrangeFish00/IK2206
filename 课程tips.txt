@@ -2,4 +2,4 @@
 2.程序别写中文注释！！！
 3.对于windows用户，若自己没有linux系统，强烈建议保留上一学期或者IPlab留下的ubuntu虚拟机，创建证书等流程远比windows方便。
 4.若自己有linux机建议最终在linux上跑通，会减少很多不必要的麻烦。
-5.删掉了ca.pem client.pem client-private.der server-private.der server.pem 这五个文件，可替换成自己的再交。
+5.删掉了ca.pem client.pem client-private.der server-private.der server.pem 这五个文件。正式版本应该有这五个。
